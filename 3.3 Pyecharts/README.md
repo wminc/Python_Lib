@@ -30,24 +30,38 @@
 
   > http://127.0.0.1:8000/index03/
 
-#### study01.py
-- 直接调用方法的方式
-- 链式调用方式
+#### 基础小练
 
-#### study02.py
-- 主题配置
-- 标题配置
+    study01.py
+    - 直接调用方法的方式
+    - 链式调用方式
+    
+    study02.py
+    - 主题配置
+    - 标题配置
 
-#### example_bar.py
+#### 针对不同图的小练
 
-#### example_line.py
+    example_bar.py
+    
+    example_line.py
+    
+    example_map.py
+    
+    example_pie.py
 
-#### example_map.py
+#### 其他说明
 
-#### example_pie.py
+    Pyecharts流程及配置.xmind
+    
+    Pyecharts流程及配置.png
+    
+    pyecharts_组件名称.png
 
-#### Pyecharts流程及配置.xmind
+#### 项目实战
 
-####  Pyecharts流程及配置.png
+```
+- 基于Pyecharts的疫情数据可视化
 
-#### pyecharts_组件名称.png
+```
+
