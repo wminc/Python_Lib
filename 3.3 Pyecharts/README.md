@@ -61,7 +61,7 @@
 #### 项目实战
 
 ```
-- 基于Pyecharts的疫情数据可视化
+project01：基于Pyecharts的疫情数据可视化
 
 ```
 
